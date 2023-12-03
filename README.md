@@ -1,5 +1,16 @@
 # reinforcement-learning
-The scope of this project is to try reinforcement learning algorithm on a 1D geometrical shape. In a matrix the agent tries to design the 1D shape on a matrix in the orientation desired by the user.
-Note that the user should validate if the shape or desired orientation is correct or not in the matrix.
+The scope of this project is to try reinforcement learning algorithm (QLearning) on a 1D geometrical shape. In a matrix the agent tries to design a 1D shape with a certain orientation. The matrix size can be configured  under Game.java object.
+
+At this moment the target 1D shape is as follow:
+ 0 0 0 0
+ 0 0 0 0
+ 0 0 0 0
+ 1 1 1 1
+
+ The agent will constantly try to create the needed shape and orientation.
+ 
 
 This project uses https://github.com/chen0040/java-reinforcement-learning 
+
+
+Tested with JDK 17.

@@ -14,4 +14,8 @@ At this moment the target 1D shape is as follow:
 This project uses https://github.com/chen0040/java-reinforcement-learning 
 
 
-Tested with JDK 17.
+Prerequisites:
+- JDK 17
+- maven
+
+To run the program execute in IDEA/Eclipse the main class.

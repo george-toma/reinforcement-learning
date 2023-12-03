@@ -1,5 +1,5 @@
 # reinforcement-learning
-The scope of this project is to try reinforcement learning algorithm (QLearning) on a 1D geometrical shape. In a matrix the agent tries to design a 1D shape with a certain orientation. The matrix size can be configured  under Game.java object.
+The scope of this project is to try reinforcement learning algorithm (QLearning) on a 1D geometrical shape. In a matrix the agent tries to design a 1D shape with a certain orientation. The matrix size can be configured  under [Game.java](https://github.com/george-toma/reinforcement-learning-1D/blob/main/src/main/java/com/learn/rlearning/form/Application.java) .
 
 At this moment the target 1D shape is as follow:
 ```
@@ -18,4 +18,4 @@ Prerequisites:
 - JDK 17
 - maven
 
-To run the program execute in IDEA/Eclipse the main class.
+To run the program execute in IDEA/Eclipse the main class [Application.java](https://github.com/george-toma/reinforcement-learning-1D/blob/main/src/main/java/com/learn/rlearning/form/Application.java)
